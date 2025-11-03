@@ -1,0 +1,199 @@
+{
+  "app": {
+    "name": "360 Health Wallet",
+    "tagline": "Tu Salud en Un Solo Lugar"
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "prescriptions": "Recetas",
+    "exams": "Exámenes",
+    "nutrition": "Nutrición",
+    "fitness": "Ejercicio",
+    "timeline": "Línea de Tiempo",
+    "emergency": "Emergencia",
+    "providers": "Médicos",
+    "documents": "Documentos",
+    "insights": "Perspectivas",
+    "home": "Inicio"
+  },
+  "dashboard": {
+    "greeting": "¡Hola, João!",
+    "subtitle": "Aquí está un resumen de tu salud hoy",
+    "healthScore": "Puntuación de Salud",
+    "viewDetails": "Ver Detalles",
+    "quickActions": "Acciones Rápidas",
+    "newPrescription": "Nueva Receta",
+    "uploadExam": "Subir Examen",
+    "emergencyInfo": "Info Emergencia",
+    "schedule": "Programar",
+    "todaysMedications": "Medicamentos de Hoy",
+    "viewAll": "Ver Todos",
+    "healthAlerts": "Alertas de Salud",
+    "recentActivities": "Actividades Recientes",
+    "achievements": "Logros",
+    "healthInsights": "Perspectivas de Salud",
+    "categories": {
+      "medication": "Medicación",
+      "exercise": "Ejercicio",
+      "nutrition": "Nutrición",
+      "sleep": "Sueño",
+      "mental": "Mental"
+    },
+    "adherence": "Adherencia",
+    "upcomingAppointments": "Próximas Citas"
+  },
+  "prescriptions": {
+    "title": "Mis Recetas",
+    "filter": "Filtrar",
+    "new": "Nueva Receta",
+    "active": "Recetas Activas",
+    "completed": "Recetas Completadas",
+    "doctor": "Médico",
+    "specialty": "Especialidad",
+    "diagnosis": "Diagnóstico",
+    "medications": "Medicamentos",
+    "instructions": "Instrucciones",
+    "download": "Descargar",
+    "share": "Compartir",
+    "interactions": "interacciones detectadas",
+    "renewalAvailable": "renovación disponible",
+    "stats": {
+      "activeCount": "Activas",
+      "medications": "Medicamentos",
+      "renewals": "Renovaciones",
+      "interactions": "Interacciones"
+    }
+  },
+  "exams": {
+    "title": "Mis Exámenes",
+    "upload": "Subir Examen",
+    "filter": "Filtrar",
+    "recent": "Exámenes Recientes",
+    "category": "Categoría",
+    "date": "Fecha",
+    "status": "Estado",
+    "viewReport": "Ver Informe",
+    "lab": "Laboratorio",
+    "results": "Resultados",
+    "reference": "Referencia",
+    "stats": {
+      "total": "Total de Exámenes",
+      "pending": "Pendientes",
+      "normal": "Normales",
+      "attention": "Requieren Atención"
+    }
+  },
+  "nutrition": {
+    "title": "Mi Plan Nutricional",
+    "currentPlan": "Plan Actual",
+    "nutritionist": "Nutricionista",
+    "goal": "Objetivo",
+    "dailyCalories": "Calorías Diarias",
+    "meals": "Comidas",
+    "macros": "Macronutrientes",
+    "progress": "Progreso",
+    "supplements": "Suplementación"
+  },
+  "fitness": {
+    "title": "Mi Plan de Entrenamiento",
+    "currentPlan": "Plan Actual",
+    "trainer": "Entrenador Personal",
+    "goal": "Objetivo",
+    "weeklyWorkouts": "Entrenamientos Semanales",
+    "exercises": "Ejercicios",
+    "sets": "Series",
+    "reps": "Repeticiones",
+    "rest": "Descanso",
+    "watchVideo": "Ver Video"
+  },
+  "timeline": {
+    "title": "Línea de Tiempo",
+    "filter": "Filtrar por Categoría",
+    "all": "Todos",
+    "consultations": "Consultas",
+    "exams": "Exámenes",
+    "procedures": "Procedimientos",
+    "vaccinations": "Vacunaciones"
+  },
+  "emergency": {
+    "title": "Información de Emergencia",
+    "bloodType": "Tipo de Sangre",
+    "organDonor": "Donante de Órganos",
+    "yes": "Sí",
+    "no": "No",
+    "allergies": "Alergias",
+    "severity": "Gravedad",
+    "reaction": "Reacción",
+    "chronicConditions": "Condiciones Crónicas",
+    "currentMedications": "Medicamentos Actuales",
+    "emergencyContacts": "Contactos de Emergencia",
+    "relationship": "Relación",
+    "primary": "Principal",
+    "call": "Llamar",
+    "insurance": "Información del Seguro",
+    "provider": "Proveedor",
+    "policyNumber": "Número de Póliza",
+    "validUntil": "Válido hasta",
+    "advanceDirectives": "Directivas Anticipadas",
+    "share": "Compartir",
+    "print": "Imprimir"
+  },
+  "providers": {
+    "title": "Mis Médicos",
+    "add": "Agregar Médico",
+    "specialty": "Especialidad",
+    "clinic": "Clínica",
+    "lastVisit": "Última Visita",
+    "contact": "Contacto"
+  },
+  "documents": {
+    "title": "Mis Documentos",
+    "upload": "Subir Documento",
+    "category": "Categoría",
+    "size": "Tamaño",
+    "date": "Fecha",
+    "download": "Descargar"
+  },
+  "insights": {
+    "title": "Perspectivas de Salud",
+    "healthScore": "Puntuación General de Salud",
+    "trend": "Tendencia",
+    "categories": "Categorías de Salud",
+    "recommendations": "Recomendaciones Personalizadas"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "search": "Buscar...",
+    "notifications": "Notificaciones",
+    "theme": "Cambiar tema",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "back": "Volver",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "viewMore": "Ver Más",
+    "viewLess": "Ver Menos"
+  },
+  "share": {
+    "title": "Compartir",
+    "whatsapp": "WhatsApp",
+    "email": "Correo electrónico",
+    "copy": "Copiar Enlace",
+    "copied": "¡Enlace copiado!",
+    "message": "Mira mi documento de salud"
+  },
+  "download": {
+    "title": "Descargar",
+    "pdf": "Descargar PDF",
+    "image": "Descargar Imagen",
+    "downloading": "Descargando...",
+    "success": "¡Descarga completa!",
+    "error": "Error al descargar"
+  }
+}

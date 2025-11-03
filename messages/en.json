@@ -1,0 +1,199 @@
+{
+  "app": {
+    "name": "360 Health Wallet",
+    "tagline": "Your Health in One Place"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "prescriptions": "Prescriptions",
+    "exams": "Exams",
+    "nutrition": "Nutrition",
+    "fitness": "Fitness",
+    "timeline": "Timeline",
+    "emergency": "Emergency",
+    "providers": "Providers",
+    "documents": "Documents",
+    "insights": "Insights",
+    "home": "Home"
+  },
+  "dashboard": {
+    "greeting": "Hello, João!",
+    "subtitle": "Here's a summary of your health today",
+    "healthScore": "Health Score",
+    "viewDetails": "View Details",
+    "quickActions": "Quick Actions",
+    "newPrescription": "New Prescription",
+    "uploadExam": "Upload Exam",
+    "emergencyInfo": "Emergency Info",
+    "schedule": "Schedule",
+    "todaysMedications": "Today's Medications",
+    "viewAll": "View All",
+    "healthAlerts": "Health Alerts",
+    "recentActivities": "Recent Activities",
+    "achievements": "Achievements",
+    "healthInsights": "Health Insights",
+    "categories": {
+      "medication": "Medication",
+      "exercise": "Exercise",
+      "nutrition": "Nutrition",
+      "sleep": "Sleep",
+      "mental": "Mental"
+    },
+    "adherence": "Adherence",
+    "upcomingAppointments": "Upcoming Appointments"
+  },
+  "prescriptions": {
+    "title": "My Prescriptions",
+    "filter": "Filter",
+    "new": "New Prescription",
+    "active": "Active Prescriptions",
+    "completed": "Completed Prescriptions",
+    "doctor": "Doctor",
+    "specialty": "Specialty",
+    "diagnosis": "Diagnosis",
+    "medications": "Medications",
+    "instructions": "Instructions",
+    "download": "Download",
+    "share": "Share",
+    "interactions": "interactions detected",
+    "renewalAvailable": "renewal available",
+    "stats": {
+      "activeCount": "Active",
+      "medications": "Medications",
+      "renewals": "Renewals",
+      "interactions": "Interactions"
+    }
+  },
+  "exams": {
+    "title": "My Exams",
+    "upload": "Upload Exam",
+    "filter": "Filter",
+    "recent": "Recent Exams",
+    "category": "Category",
+    "date": "Date",
+    "status": "Status",
+    "viewReport": "View Report",
+    "lab": "Laboratory",
+    "results": "Results",
+    "reference": "Reference",
+    "stats": {
+      "total": "Total Exams",
+      "pending": "Pending",
+      "normal": "Normal",
+      "attention": "Require Attention"
+    }
+  },
+  "nutrition": {
+    "title": "My Nutrition Plan",
+    "currentPlan": "Current Plan",
+    "nutritionist": "Nutritionist",
+    "goal": "Goal",
+    "dailyCalories": "Daily Calories",
+    "meals": "Meals",
+    "macros": "Macronutrients",
+    "progress": "Progress",
+    "supplements": "Supplementation"
+  },
+  "fitness": {
+    "title": "My Workout Plan",
+    "currentPlan": "Current Plan",
+    "trainer": "Personal Trainer",
+    "goal": "Goal",
+    "weeklyWorkouts": "Weekly Workouts",
+    "exercises": "Exercises",
+    "sets": "Sets",
+    "reps": "Reps",
+    "rest": "Rest",
+    "watchVideo": "Watch Video"
+  },
+  "timeline": {
+    "title": "Timeline",
+    "filter": "Filter by Category",
+    "all": "All",
+    "consultations": "Consultations",
+    "exams": "Exams",
+    "procedures": "Procedures",
+    "vaccinations": "Vaccinations"
+  },
+  "emergency": {
+    "title": "Emergency Information",
+    "bloodType": "Blood Type",
+    "organDonor": "Organ Donor",
+    "yes": "Yes",
+    "no": "No",
+    "allergies": "Allergies",
+    "severity": "Severity",
+    "reaction": "Reaction",
+    "chronicConditions": "Chronic Conditions",
+    "currentMedications": "Current Medications",
+    "emergencyContacts": "Emergency Contacts",
+    "relationship": "Relationship",
+    "primary": "Primary",
+    "call": "Call",
+    "insurance": "Insurance Information",
+    "provider": "Provider",
+    "policyNumber": "Policy Number",
+    "validUntil": "Valid Until",
+    "advanceDirectives": "Advance Directives",
+    "share": "Share",
+    "print": "Print"
+  },
+  "providers": {
+    "title": "My Doctors",
+    "add": "Add Doctor",
+    "specialty": "Specialty",
+    "clinic": "Clinic",
+    "lastVisit": "Last Visit",
+    "contact": "Contact"
+  },
+  "documents": {
+    "title": "My Documents",
+    "upload": "Upload Document",
+    "category": "Category",
+    "size": "Size",
+    "date": "Date",
+    "download": "Download"
+  },
+  "insights": {
+    "title": "Health Insights",
+    "healthScore": "Overall Health Score",
+    "trend": "Trend",
+    "categories": "Health Categories",
+    "recommendations": "Personalized Recommendations"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search...",
+    "notifications": "Notifications",
+    "theme": "Toggle theme",
+    "menu": "Menu",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "viewMore": "View More",
+    "viewLess": "View Less"
+  },
+  "share": {
+    "title": "Share",
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "copy": "Copy Link",
+    "copied": "Link copied!",
+    "message": "Check out my health document"
+  },
+  "download": {
+    "title": "Download",
+    "pdf": "Download PDF",
+    "image": "Download Image",
+    "downloading": "Downloading...",
+    "success": "Download complete!",
+    "error": "Download error"
+  }
+}
